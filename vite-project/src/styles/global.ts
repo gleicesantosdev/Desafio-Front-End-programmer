@@ -11,6 +11,10 @@ const globalStyle = createGlobalStyle `
         height: 100%;
     }
 
+    body {
+        backgroud-color: #FFFFFF;
+    }
+
     a {
         text-decoration: none;
         outline: none;

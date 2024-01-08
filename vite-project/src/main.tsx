@@ -4,7 +4,7 @@ import Main from './pages/Main'
 
 import GlobalStyle from './styles/global'
 
-ReactDOM.render(
+ReactDOM.render (
   <React.StrictMode>
     <GlobalStyle />
     <Main />
