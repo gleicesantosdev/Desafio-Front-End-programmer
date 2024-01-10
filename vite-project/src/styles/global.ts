@@ -12,7 +12,7 @@ const globalStyle = createGlobalStyle `
     }
 
     body {
-        backgroud-color: #FFFFFF;
+        backgroud-color: #F8FDFF;
     }
 
     a {

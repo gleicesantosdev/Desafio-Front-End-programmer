@@ -1,7 +1,9 @@
 import React from "react";
 
-function Main(){
-    return <div className="App"> Teste </div>
+import Frontend from "../templates/Frontend";
+
+function Main() {
+    return <Frontend>Template</Frontend>
 }
 
 export default Main;
