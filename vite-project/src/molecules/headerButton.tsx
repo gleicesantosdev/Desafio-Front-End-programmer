@@ -1,4 +1,4 @@
-const buttonPlayStore = () => {
+const ButtonPlayStore = () => {
     return <div> Button </div>
 };
 
