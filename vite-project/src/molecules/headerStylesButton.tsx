@@ -2,13 +2,12 @@ import styled from "styled-components";
 
 export const MenuList = styled.ul `
     display: flex;
-    margin-right: auto;
-    margin-left: 60px;
+    margin: auto;
 `
 
 export const itemList = styled.li `
     display: inline-block;
-    margin-right: 25px;
+    margin-left: 90px;
     font-weight: 800;
 
     a {

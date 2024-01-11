@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 
 export const Cabecalho = styled.header `
-    margin-top: 30px;
-    height: 42px;
+    padding-top: 60px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

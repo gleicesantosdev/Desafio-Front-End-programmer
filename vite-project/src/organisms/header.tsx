@@ -4,7 +4,7 @@ import * as S from './headerStyles';
 
 import Logo from "../molecules/headerLogo";
 import Menu from "../molecules/headerMenu";
-import ButtonPlayStore from "../molecules/headerButton";
+import ButtonStore from "../molecules/headerButton";
 
 
 const Header = () => {
@@ -12,7 +12,7 @@ const Header = () => {
         
         <Logo />
         <Menu />
-        <ButtonPlayStore />
+        <ButtonStore />
         
         </S.Cabecalho>
 }

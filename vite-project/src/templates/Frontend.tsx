@@ -7,7 +7,10 @@ type FrontendProps = {
 
 const Frontend = ( {children}: FrontendProps) => {
     return <S.Container>
-        <Header> header </Header>
+        <Header></Header>
+        <main>
+            {children}
+        </main>
          </S.Container>
 };
 
