@@ -13,6 +13,7 @@ const globalStyle = createGlobalStyle `
 
     body {
         backgroud-color: #F8FDFF;
+        font-family: 'Open Sans', sans-serif;
     }
 
     a {

@@ -1,4 +1,4 @@
-import Logoimage = require('../assets/Logo.png');
+import Logoimage from '../assets/Logo.svg'
 
 const Logo = () => {
     return <img src= {Logoimage} alt="Logo Image" />

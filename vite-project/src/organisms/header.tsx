@@ -9,6 +9,7 @@ import ButtonPlayStore from "../molecules/headerButton";
 
 const Header = () => {
     return <S.Cabecalho>
+        
         <Logo />
         <Menu />
         <ButtonPlayStore />
